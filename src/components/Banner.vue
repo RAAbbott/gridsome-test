@@ -1,6 +1,6 @@
 <template>
     <div class="bg-blue-400 relative">
-        <g-image src="../../static/banner.jpg" class="object-cover opacity-25" height="1200"/>
+        <g-image src="../../static/banner.jpg" class="object-cover" style="opacity:15%;" height="1200"/>
         <div class="w-full absolute text-white top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2">
             <div class="relative text-center">
                 <h1 class="text-8xl">You dream it, We build it</h1>
