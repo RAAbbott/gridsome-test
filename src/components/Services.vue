@@ -1,5 +1,5 @@
 <template>
-  <div class="flex flex-col justify-center items-center">
+  <div class="flex flex-col justify-center items-center w-screen">
       <div class="text-4xl font-bold mb-12">Services</div>
 
       <div class="flex flex-col lg:flex-row justify-center items-center">
@@ -13,8 +13,8 @@
 
       </div>
 
-      <div class="flex flex-col md:flex-row justify-center items-center">
-        <div class="w-screen h-96 bg-blue-400">
+      <div class="flex flex-col lg:flex-row justify-center items-center">
+        <div class="w-96 h-72 bg-blue-400">
 
         </div>
 
